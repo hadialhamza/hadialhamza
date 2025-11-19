@@ -1,39 +1,69 @@
 <div align="center">
-
-# 👋 Hello, I'm Hadi Al Hamza!
-
-### **MERN Stack Developer | Full Stack Learner**
-
-  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello,+I%27m+Hadi+Al+Hamza;MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Full+Stack+Learner;Welcome+to+my+GitHub+Profile!" />
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcuVXa/giphy.gif" width="30"/>
+  <h1>👋 Hello, I'm Hadi Al Hamza!</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello,+I%27m+Hadi+Al+Hamza;MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Full+Stack+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👋 About Me
 
-🎯 **New MERN Stack Developer | Learning Full-Stack Web Development**
+🎯 **New MERN Stack Developer | Learning Full‑Stack Web Development**
 💻 Passionate about building clean, efficient, and modern web apps.
 🚀 Currently working with **React, Node.js, Express JS, MongoDB, Firebase, Tailwind, DaisyUI, Zustand, TanStack Query, ShadeCN**.
 
 ### 🌱 What I'm Doing
 
-- Learning **MERN Stack step-by-step**
+- Learning **MERN Stack step‑by‑step**
 - Exploring modern frontend & backend tools
-- Crafting beautiful UI using **Tailwind CSS DaisyUI & ShadeCN**
+- Crafting beautiful UI using **Tailwind CSS, DaisyUI & ShadeCN**
 - Using **Zustand + TanStack Query** for state & server state
 - Working with Firebase Auth & backend API development
-- Building real-world problem‑solving projects
+- Building real‑world problem‑solving projects
 
 ---
+
+## 📫 Connect With Me
+
+<div>
+  <p>
+    Connect with me across the web!
+  </p>
+  
+  <p>
+    <a href="mailto:hamzaglory@gmail.com">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+    </a>    
+    <a href="https://linkedin.com/in/hadialhamza">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+    </a>    
+    <a href="https://github.com/hadialhamza">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+    </a>    
+    <a href="https://discord.com/users/hadialhamza">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />
+    </a>    
+    <a href="https://facebook.com/hadialhamza">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
+    </a>
+  </p>
+</div>
+
+---
+
+<!-- ========================================= -->
+
+<!-- 🛠️ TECH STACK (Centered + Better Spacing) -->
+
+<!-- ========================================= -->
 
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend**
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,js,html,css,tailwindcss,daisyui" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,js,html,css,tailwindcss,daisyui,shadcn" />
 </p>
 
 ### **Backend**
@@ -44,7 +74,7 @@
 
 ### **State Management & Data Fetching**
 
-<p align="left">
+<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=reactrouter,zustand,reactquery,axios" />
 </p>
 
@@ -58,45 +88,60 @@
 
 ## 📈 2025 Goals
 
-- Build strong MERN projects
-- Improve UI/UX with Tailwind + component libraries
-- Learn advanced backend: **JWT, Middleware, Security**
-- Deploy apps with **Vercel, Netlify, Render, Railway**
-- Create a professional portfolio website
+- Build **strong MERN projects** to showcase skills
+- Improve UI/UX with **Tailwind + component libraries** (DaisyUI, ShadeCN)
+- Learn advanced backend: **JWT, Middleware, Security, and Advanced Database Queries**
+- Deploy applications using professional platforms: **Vercel, Netlify, Render, Railway**
+- Create a professional **portfolio website**
 
 ---
 
-## 🖼️ Pacman Contribution Graph
+<!-- ========================================= -->
 
-<img src="https://raw.githubusercontent.com/hadialhamza/hadialhamza/output/snake.svg" alt="Snake animation" />
+<!-- 📊 Beautified GitHub Stats (Centered Layout) -->
 
-###
+<!-- ========================================= -->
 
----
+<div>
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hadialhamza&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hadialhamza&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadialhamza&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 🐍 Contribution Calendar Animation
+<img src="https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg" alt="Snake Grid" />
 
----
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hadialhamza&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=22C55E&icon_color=22C55E" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=hadialhamza&theme=transparent&hide_border=true&fire=22C55E&ring=22C55E" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
+### 🏅 Top Languages
 
-![](https://github-profile-trophy.vercel.app/?username=hadialhamza&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadialhamza&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=22C55E&icon_color=22C55E" alt="Top Languages" />
+    </td>
+    <td width="70%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=hadialhamza&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=hadialhamza&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 
@@ -106,18 +151,15 @@
 
 ---
 
-## 📫 Connect With Me
+<!-- ========================================= -->
 
-📧 Email: **[hamzaglory@gmail.com](mailto:hamzaglory@gmail.com)**
-🐙 GitHub: **[https://github.com/hadialhamza](https://github.com/hadialhamza)**
+<!-- 👀 Visitor Badge (Bigger Size) -->
 
----
+<!-- ========================================= -->
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hadialhamza&icon=0&color=0" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hadialhamza.hadialhamza&right_color=green&left_text=Visitors" width="100" />
+</div>
 
 ---
 
