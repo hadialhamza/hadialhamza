@@ -9,18 +9,17 @@
 
 ## 👋 About Me
 
-🎯 **New MERN Stack Developer | Learning Full‑Stack Web Development**
-💻 Passionate about building clean, efficient, and modern web apps.
-🚀 Currently working with **React, Node.js, Express JS, MongoDB, Firebase, Tailwind, DaisyUI, Zustand, TanStack Query, ShadeCN**.
+🎯 **Full Stack Developer | Architecting Modern Web Solutions**
 
-### 🌱 What I'm Doing
+I am a Full Stack Web Developer focused on delivering end-to-end web applications that are as performant under the hood as they are visually appealing. With solid hands-on experience in the MERN stack and Next.js, I am currently focused on mid-level engineering challenges: building scalable architectures, implementing secure APIs, and writing clean, maintainable code.
 
-- Learning **MERN Stack step‑by‑step**
-- Exploring modern frontend & backend tools
-- Crafting beautiful UI using **Tailwind CSS, DaisyUI & ShadeCN**
-- Using **Zustand + TanStack Query** for state & server state
-- Working with Firebase Auth & backend API development
-- Building real‑world problem‑solving projects
+### 🛠️ What I bring to the table:
+
+- 💻 **Frontend Mastery:** Developing responsive, dynamic, and highly reusable UI components using React, Next.js, and modern styling libraries like Tailwind CSS and shadcn/ui.
+- ⚙️ **Backend Robustness:** Designing secure backend logic, managing RESTful APIs, and integrating MongoDB for efficient data handling.
+- 🚀 **Performance & Productivity:** Proficient in advanced state management, leveraging AI tools to accelerate development, and optimizing applications for the best user experience.
+
+🌱 Always exploring new ways to optimize code architecture and build impactful real-world applications. Let's build something great together!
 
 ---
 
@@ -32,20 +31,23 @@
   </p>
   
   <p>
-    <a href="mailto:hamzaglory@gmail.com">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+    <a href="mailto:hamzaglory@gmail.com" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" height="40" />
     </a>    
-    <a href="https://linkedin.com/in/hadihamza">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+    <a href="https://linkedin.com/in/hadihamza" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" height="40" />
     </a>    
-    <a href="https://github.com/hadialhamza">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+    <a href="https://github.com/hadialhamza" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" height="40" />
+    </a>
+    <a href="https://hadialhamza.vercel.app/" target="_blank">
+      <img src="https://github.com/hadialhamza.png" alt="Portfolio" title="My Portfolio" height="40" width="40" style="border-radius: 10px; vertical-align: top;" />
+    </a>
+    <a href="https://discord.com/users/hadialhamza" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord" height="40" />
     </a>    
-    <a href="https://discord.com/users/hadialhamza">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />
-    </a>    
-    <a href="https://facebook.com/hadialhamza">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
+    <a href="https://facebook.com/hadialhamza" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="Facebook" height="40" />
     </a>
   </p>
 </div>
@@ -142,12 +144,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
----
-
-## 💼 Portfolio
-
-🔗 [Portfolio](https://hadialhamza.vercel.app/)
 
 ---
 
