@@ -35,7 +35,7 @@
     <a href="mailto:hamzaglory@gmail.com">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
     </a>    
-    <a href="https://linkedin.com/in/hadialhamza">
+    <a href="https://linkedin.com/in/hadihamza">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
     </a>    
     <a href="https://github.com/hadialhamza">
@@ -147,7 +147,7 @@
 
 ## 💼 Portfolio
 
-🔗 **Coming Soon… Building using MERN + Tailwind + GSAP animations!**
+🔗 [Portfolio](https://hadialhamza.vercel.app/)
 
 ---
 
