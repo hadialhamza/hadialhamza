@@ -60,6 +60,74 @@
   <img src="./images/icons/Vercel-Dark.svg" height="60" alt="Vercel" />
 </p>
 
+
+## 🏗️ Featured Engineering
+
+<br/>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" valign="center" style="border: none;">
+      <a href="LIVE_SITE_LINK_HERE" target="_blank">
+        <img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776263326/fitflow-home_uumgkm.png" alt="Fit Flow Pro Mockup" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>🟢 Fit Flow Pro</h3>
+      <p><b>Elevate Your Fitness with AI-Driven Intelligence.</b></p>
+      <p>A next-generation activity tracking ecosystem that transforms your raw health data into personalized, actionable insights through real-time analytics.</p>
+      <p><b>Core Arsenal:</b> Next.js 16, React 19, Tailwind, Node.js, MongoDB, AI Models.</p>
+      <br/>
+      <a href="LIVE_SITE_LINK">🔗 Live App</a> &nbsp;|&nbsp; 
+      <a href="GITHUB_CLIENT_LINK">💻 Client</a> &nbsp;|&nbsp; 
+      <a href="GITHUB_SERVER_LINK">⚙️ Server</a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>🔴 BloodLine</h3>
+      <p><b>Secure Blood Donation & Funding Ecosystem.</b></p>
+      <p>Engineered a high-performance MERN architecture with secure checkout sessions, role-based access verification, and one-click report generation.</p>
+      <p><b>Core Arsenal:</b> React 19, Express.js, MongoDB, Stripe, Firebase Admin SDK.</p>
+      <br/>
+      <a href="LIVE_SITE_LINK">🔗 Live App</a> &nbsp;|&nbsp; 
+      <a href="GITHUB_CLIENT_LINK">💻 Client</a> &nbsp;|&nbsp; 
+      <a href="GITHUB_SERVER_LINK">⚙️ Server</a>
+    </td>
+    <td width="50%" align="center" valign="center" style="border: none;">
+      <a href="LIVE_SITE_LINK_HERE" target="_blank">
+        <img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776264547/731shots_so_s4s2y4.png" alt="BloodLine Mockup" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" valign="center" style="border: none;">
+      <a href="LIVE_SITE_LINK_HERE" target="_blank">
+        <img src="https://i.ibb.co.com/ycPCDS7z/Home-page.png" alt="PrimeCare Mockup" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>🔵 PrimeCare</h3>
+      <p><b>Automated Care Service Booking.</b></p>
+      <p>Built a fully SEO-optimized, full-stack booking architecture with secure session management and automated email invoicing.</p>
+      <p><b>Core Arsenal:</b> Next.js 16, Tailwind, NextAuth.js, MongoDB, Nodemailer.</p>
+      <br/>
+      <a href="LIVE_SITE_LINK">🔗 Live App</a> &nbsp;|&nbsp; 
+      <a href="GITHUB_REPO_LINK">💻 Source Code</a>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 ## 📫 Connect With Me
