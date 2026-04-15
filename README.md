@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776251458/github-cover_hoevvs.gif" width="100%" alt="Hadi Al Hamza — Full Stack Developer" />
+<img src="./images/github-cover.gif" width="100%" alt="Hadi Al Hamza — Full Stack Developer" />
 
 <br/>
 
@@ -31,51 +31,41 @@
 ### **Frontend Architecture**
 
 <p>
-  <img src="./images/icons/NextJS-Dark.svg" height="40" alt="Next.js" />
-  <img src="./images/icons/React-Dark (1).svg" height="40" alt="React" />
-  <img src="./images/icons/TailwindCSS-Dark.svg" height="40" alt="Tailwind CSS" />
-  <img src="./images/icons/MaterialUI-Dark.svg" height="40" alt="Material UI" />
-  <img src="./images/icons/shadcn.png" height="40" alt="shadcn/ui" />
-  <img src="./images/icons/motionbg.png" height="40" alt="Framer Motion" />
+  <img src="./images/icons/NextJS-Dark.svg" height="60" alt="Next.js" />
+  <img src="./images/icons/React-Dark (1).svg" height="60" alt="React" />
+  <img src="./images/icons/TailwindCSS-Dark.svg" height="60" alt="Tailwind CSS" />
+  <img src="./images/icons/MaterialUI-Dark.svg" height="60" alt="Material UI" />
+  <img src="./images/icons/shadcn.png" height="60" alt="shadcn/ui" />
+  <img src="./images/icons/motionbg.png" height="60" alt="Framer Motion" />
 </p>
 
 ### **Backend & Database**
 
 <p>
-  <img src="./images/icons/NodeJS-Dark.svg" height="40" alt="Node.js" />
-  <img src="./images/icons/ExpressJS-Dark.svg" height="40" alt="Express.js" />
-  <img src="./images/icons/MongoDB (2).svg" height="40" alt="MongoDB" />
-  <img src="./images/icons/Firebase-Dark.svg" height="40" alt="Firebase" />
-  <img src="./images/icons/auth.png" height="40" alt="Auth.js" />
-  <img src="./images/icons/jwtbg.png" height="40" alt="JWT" />
+  <img src="./images/icons/NodeJS-Dark.svg" height="60" alt="Node.js" />
+  <img src="./images/icons/ExpressJS-Dark.svg" height="60" alt="Express.js" />
+  <img src="./images/icons/MongoDB (2).svg" height="60" alt="MongoDB" />
+  <img src="./images/icons/Firebase-Dark.svg" height="60" alt="Firebase" />
+  <img src="./images/icons/auth.png" height="60" alt="Auth.js" />
+  <img src="./images/icons/jwtbg.png" height="60" alt="JWT" />
 </p>
 
 ### **Tools & Infrastructure**
 
 <p>
-  <img src="./images/icons/Git.svg" height="40" alt="Git" />
-  <img src="./images/icons/Github-Dark.svg" height="40" alt="GitHub" />
-  <img src="./images/icons/VSCode-Dark.svg" height="40" alt="VS Code" />
-  <img src="./images/icons/Npm-Dark.svg" height="40" alt="npm" />
-  <img src="./images/icons/Vercel-Dark.svg" height="40" alt="Vercel" />
+  <img src="./images/icons/Git.svg" height="60" alt="Git" />
+  <img src="./images/icons/Github-Dark.svg" height="60" alt="GitHub" />
+  <img src="./images/icons/VSCode-Dark.svg" height="60" alt="VS Code" />
+  <img src="./images/icons/Npm-Dark.svg" height="60" alt="npm" />
+  <img src="./images/icons/Vercel-Dark.svg" height="60" alt="Vercel" />
 </p>
 
 <br/>
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/hadihamza" target="_blank">
-    <img src="./images/icons/contact-linkedin.png" alt="LinkedIn" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hamzaglory@gmail.com" target="_blank">
-    <img src="./images/icons/contact-gmail.png" alt="Email" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hadialhamza.vercel.app" target="_blank">
-    <img src="./images/icons/contact-portfolio.png" alt="Portfolio" height="40" />
-  </a>
-</p>
+<br />
+
+[<p align="center"><img height="70" src="./images/icons/contact-linkedin.png">](https://linkedin.com/in/hadihamza)[<img height="70" src="./images/icons/contact-gmail.png">](mailto:hamzaglory@gmail.com)[<img height="70" src="./images/icons/contact-portfolio.png"> </p>](https://hadialhamza.vercel.app)
 
 <br/>
