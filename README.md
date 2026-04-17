@@ -1,4 +1,4 @@
-<video src="./images/GitHub Profile Header.mp4" poster="./images/GitHub Profile Header.png" autoplay loop muted playsinline width="100%"></video>
+<a href="https://github.com/hadialhamza"><img src="./images/github-cover2.gif" width="100%" alt="Hadi Al Hamza — Full Stack Developer" /></a>
 
 <br/>
 
