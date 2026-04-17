@@ -1,4 +1,4 @@
-<img src="./images/github-cover.gif" width="100%" alt="Hadi Al Hamza — Full Stack Developer" />
+<img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776391671/GitHub_Profile_Header_2_wl7iha.gif" width="100%" alt="Hadi Al Hamza — Full Stack Developer" />
 
 <br/>
 
@@ -60,6 +60,8 @@
   <img src="./images/icons/Vercel-Dark.svg" height="60" alt="Vercel" />
 </p>
 
+<br/>
+<br/>
 
 ## 🏗️ Featured Engineering
 
@@ -68,7 +70,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" valign="center" style="border: none;">
-      <a href="LIVE_SITE_LINK_HERE" target="_blank">
+      <a href="https://fit-flow-pro-cc.vercel.app/" target="_blank">
         <img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776263326/fitflow-home_uumgkm.png" alt="Fit Flow Pro Mockup" width="100%" />
       </a>
     </td>
@@ -78,9 +80,9 @@
       <p>A next-generation activity tracking ecosystem that transforms your raw health data into personalized, actionable insights through real-time analytics.</p>
       <p><b>Core Arsenal:</b> Next.js 16, React 19, Tailwind, Node.js, MongoDB, AI Models.</p>
       <br/>
-      <a href="LIVE_SITE_LINK">🔗 Live App</a> &nbsp;|&nbsp; 
-      <a href="GITHUB_CLIENT_LINK">💻 Client</a> &nbsp;|&nbsp; 
-      <a href="GITHUB_SERVER_LINK">⚙️ Server</a>
+      <a href="https://fit-flow-pro-cc.vercel.app/">🔗 Live App</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/hadialhamza/fit-flow-pro">💻 Client</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/hadialhamza/fit-flow-pro-server">⚙️ Server</a>
     </td>
   </tr>
 </table>
@@ -95,12 +97,12 @@
       <p>Engineered a high-performance MERN architecture with secure checkout sessions, role-based access verification, and one-click report generation.</p>
       <p><b>Core Arsenal:</b> React 19, Express.js, MongoDB, Stripe, Firebase Admin SDK.</p>
       <br/>
-      <a href="LIVE_SITE_LINK">🔗 Live App</a> &nbsp;|&nbsp; 
-      <a href="GITHUB_CLIENT_LINK">💻 Client</a> &nbsp;|&nbsp; 
-      <a href="GITHUB_SERVER_LINK">⚙️ Server</a>
+      <a href="https://bloodline-savelives.vercel.app/">🔗 Live App</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/hadialhamza/blood-donation-application-client">💻 Client</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/hadialhamza/blood-donation-application-server">⚙️ Server</a>
     </td>
     <td width="50%" align="center" valign="center" style="border: none;">
-      <a href="LIVE_SITE_LINK_HERE" target="_blank">
+      <a href="https://bloodline-savelives.vercel.app/" target="_blank">
         <img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776264547/731shots_so_s4s2y4.png" alt="BloodLine Mockup" width="100%" />
       </a>
     </td>
@@ -112,7 +114,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" valign="center" style="border: none;">
-      <a href="LIVE_SITE_LINK_HERE" target="_blank">
+      <a href="https://prime-care-service.vercel.app/" target="_blank">
         <img src="https://i.ibb.co.com/ycPCDS7z/Home-page.png" alt="PrimeCare Mockup" width="100%" />
       </a>
     </td>
@@ -122,8 +124,8 @@
       <p>Built a fully SEO-optimized, full-stack booking architecture with secure session management and automated email invoicing.</p>
       <p><b>Core Arsenal:</b> Next.js 16, Tailwind, NextAuth.js, MongoDB, Nodemailer.</p>
       <br/>
-      <a href="LIVE_SITE_LINK">🔗 Live App</a> &nbsp;|&nbsp; 
-      <a href="GITHUB_REPO_LINK">💻 Source Code</a>
+      <a href="https://prime-care-service.vercel.app/">🔗 Live App</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/hadialhamza/prime-care">💻 Source Code</a>
     </td>
   </tr>
 </table>
