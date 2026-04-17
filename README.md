@@ -4,15 +4,13 @@
 
 ## 👨💻 Developer Snapshot
 
-### 🔭 **Current Focus:** Architecting scalable, AI-integrated full-stack applications and leading development teams.
+🔭 **Current Focus:** Architecting scalable, AI-integrated full-stack applications and leading development teams.
 
-### ⚡ **Core Arsenal:** Next.js 16, React 19, and MERN stack, with advanced Stripe & NextAuth integrations.
+⚡ **Core Arsenal:** Next.js, React, and MERN stack, with advanced Stripe & NextAuth integrations.
 
-### 🎯 **Professional Goal:** Engineering secure, high-performance web platforms with clean, maintainable code.
+🎯 **Professional Goal:** Engineering secure, high-performance web platforms with clean, maintainable code.
 
-### 💡 **Philosophy:** Bridging complex backend architectures with pixel-perfect, intuitive user experiences.
-
-<br/>
+💡 **Philosophy:** Bridging complex backend architectures with pixel-perfect, intuitive user experiences.
 
 <br/>
 
@@ -76,9 +74,10 @@
     </td>
     <td width="50%" valign="top" style="border: none; padding-left: 20px;">
       <h3>🟢 Fit Flow Pro</h3>
-      <p><b>Elevate Your Fitness with AI-Driven Intelligence.</b></p>
-      <p>A next-generation activity tracking ecosystem that transforms your raw health data into personalized, actionable insights through real-time analytics.</p>
-      <p><b>Core Arsenal:</b> Next.js 16, React 19, Tailwind, Node.js, MongoDB, AI Models.</p>
+      <p><b>AI-Powered Fitness & Activity Tracking Platform.</b></p>
+      <p>A full-stack ecosystem with an <b>AI Coach</b> that generates personalized workout & nutrition plans, real-time BMI/TDEE analytics dashboard, and multi-role access control (User, Trainer, Admin).</p>
+      <p>📌 <b>Key Metrics:</b> 15+ interactive dashboard widgets · 3-tier role system · Groq AI integration · Responsive across all devices.</p>
+      <p><b>Built With:</b> Next.js, React, Tailwind, Node.js, MongoDB, Groq AI.</p>
       <br/>
       <a href="https://fit-flow-pro-cc.vercel.app/">🔗 Live App</a> &nbsp;|&nbsp; 
       <a href="https://github.com/hadialhamza/fit-flow-pro">💻 Client</a> &nbsp;|&nbsp; 
@@ -94,8 +93,9 @@
     <td width="50%" valign="top" style="border: none; padding-right: 20px;">
       <h3>🔴 BloodLine</h3>
       <p><b>Secure Blood Donation & Funding Ecosystem.</b></p>
-      <p>Engineered a high-performance MERN architecture with secure checkout sessions, role-based access verification, and one-click report generation.</p>
-      <p><b>Core Arsenal:</b> React 19, Express.js, MongoDB, Stripe, Firebase Admin SDK.</p>
+      <p>A MERN platform connecting blood donors with recipients, featuring <b>Stripe-powered</b> secure funding campaigns, role-based access (Admin, Donor, Volunteer), and one-click PDF report generation.</p>
+      <p>📌 <b>Key Metrics:</b> 3-role RBAC system · Stripe checkout integration · Real-time donor search & filtering · Firebase Auth + JWT dual security.</p>
+      <p><b>Built With:</b> React, Express.js, MongoDB, Stripe, Firebase Admin SDK.</p>
       <br/>
       <a href="https://bloodline-savelives.vercel.app/">🔗 Live App</a> &nbsp;|&nbsp; 
       <a href="https://github.com/hadialhamza/blood-donation-application-client">💻 Client</a> &nbsp;|&nbsp; 
@@ -120,9 +120,10 @@
     </td>
     <td width="50%" valign="top" style="border: none; padding-left: 20px;">
       <h3>🔵 PrimeCare</h3>
-      <p><b>Automated Care Service Booking.</b></p>
-      <p>Built a fully SEO-optimized, full-stack booking architecture with secure session management and automated email invoicing.</p>
-      <p><b>Core Arsenal:</b> Next.js 16, Tailwind, NextAuth.js, MongoDB, Nodemailer.</p>
+      <p><b>Automated Care Service Booking Platform.</b></p>
+      <p>A fully SSR/SEO-optimized booking platform with <b>NextAuth.js</b> session management, automated <b>Nodemailer</b> email invoicing, and dynamic service catalog with cart system.</p>
+      <p>📌 <b>Key Metrics:</b> Server-side rendered pages · JWT-secured sessions · Automated email confirmations · Mobile-first responsive UI.</p>
+      <p><b>Built With:</b> Next.js, Tailwind, NextAuth.js, MongoDB, Nodemailer.</p>
       <br/>
       <a href="https://prime-care-service.vercel.app/">🔗 Live App</a> &nbsp;|&nbsp; 
       <a href="https://github.com/hadialhamza/prime-care">💻 Source Code</a>
@@ -136,6 +137,10 @@
 
 <br />
 
-[<p align="center"><img height="70" src="./images/icons/contact-linkedin.png">](https://linkedin.com/in/hadihamza)[<img height="70" src="./images/icons/contact-gmail.png">](mailto:hamzaglory@gmail.com)[<img height="70" src="./images/icons/contact-portfolio.png"> </p>](https://hadialhamza.vercel.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hadihamza" target="_blank"><img height="70" src="./images/icons/contact-linkedin.png" alt="LinkedIn" /></a>
+  <a href="mailto:hamzaglory@gmail.com"><img height="70" src="./images/icons/contact-gmail.png" alt="Gmail" /></a>
+  <a href="https://hadialhamza.vercel.app" target="_blank"><img height="70" src="./images/icons/contact-portfolio.png" alt="Portfolio" /></a>
+</p>
 
 <br/>
