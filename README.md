@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djmfhatti/image/upload/v1776391671/GitHub_Profile_Header_2_wl7iha.gif" width="100%" alt="Hadi Al Hamza — Full Stack Developer" />
+<video src="./images/GitHub Profile Header.mp4" poster="./images/GitHub Profile Header.png" autoplay loop muted playsinline width="100%"></video>
 
 <br/>
 
