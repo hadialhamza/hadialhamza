@@ -4,13 +4,13 @@
 
 ## 👨💻 Developer Snapshot
 
-🔭 **Current Focus:** Architecting scalable, AI-integrated full-stack applications and leading development teams.
+#### 🔭 **Current Focus:** Architecting scalable, AI-integrated full-stack applications and leading development teams.
 
-⚡ **Core Arsenal:** Next.js, React, and MERN stack, with advanced Stripe & NextAuth integrations.
+#### ⚡ **Core Arsenal:** Next.js, React, and MERN stack, with advanced Stripe & NextAuth integrations.
 
-🎯 **Professional Goal:** Engineering secure, high-performance web platforms with clean, maintainable code.
+#### 🎯 **Professional Goal:** Engineering secure, high-performance web platforms with clean, maintainable code.
 
-💡 **Philosophy:** Bridging complex backend architectures with pixel-perfect, intuitive user experiences.
+#### 💡 **Philosophy:** Bridging complex backend architectures with pixel-perfect, intuitive user experiences.
 
 <br/>
 
